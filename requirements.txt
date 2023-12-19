@@ -1,0 +1,13 @@
+1. Data Manipulation and Analysis:
+   - pandas
+
+2. Plotting Libraries:
+   - matplotlib
+   - seaborn
+   - plotly
+   - holoviz
+   - bokeh
+   - ggplot
+
+3. Network Visualization:
+   - networkx
